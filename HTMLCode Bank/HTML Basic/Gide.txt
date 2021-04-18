@@ -1,0 +1,42 @@
+===================================
+
+Html = Tag
+
+1.HTML - HYPERTEXT MARKUP LANGUAGE
+2.CSS
+3.JAVASCRIPT
+4.JQUERY
+5.BOOTSTRAP
+
+------------------------------------
+********** HTML TAG ************
+
+1.Block Type Tag
+2.Inline Tag
+
+div
+section
+aside
+article
+header
+footer
+address
+
+**********  Block Type Tag ************
+1.H1-H6
+2.p
+3.ul
+4.li
+5.table
+6.ol
+
+**********  Inline Tag ************
+1.a
+2.b
+3.i
+4.u
+5.del
+6.sub
+7.sup
+
+------------------------------------

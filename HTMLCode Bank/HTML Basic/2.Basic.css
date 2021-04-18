@@ -1,0 +1,16 @@
+.country{width:1170px;margin:auto;}
+.sidebarandcontant{overflow:hidden;}
+
+
+
+
+
+.headline{background:#444;color:white;font-size:40px;font-family:arial black;text-align:center;}
+
+.menu{background:#ddd;color:black;font-size:16px;font-family:arial black;text-align:center;padding:30px;}
+
+.footer{background:#ddd;color:black;font-size:16px;font-family:arial black;text-align:center;padding:30px;}
+
+.sidebar{background:black;color:white;font-size:16px;width:400px;float: left;}
+
+.contentarea{background:orange;color:black;font-size:16px;width:730px;float:right;}

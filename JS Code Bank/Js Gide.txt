@@ -1,0 +1,24 @@
+Alert Output
+InnerHtml Output
+Document Write Output
+console.log Output
+
+var text = 'Shantonu';
+var text1 = 'Shanto';
+
+To cheeck datatype ---> typeof(text)
+To cheeck leangth ---> text.length
+To take input from user ---> prompt('Enter your text')
+To ckeec the text index ---> text.charAt(2)
+
+To make text upperCase ---> text.toUpperCase()
+To make text lowerCase ---> text.toLowerCase()
+To concate tow text ---> text.concat(text1)
+To slice text ---> text1.slice(0,2)
+
+
+To make string to int ---> text = parseInt(text,10); / parseFloat(text,10);
+Use for loop ---> for(var x=1; x<=10; x=x+1 ){
+
+Use whil loop ---> while(i <= 100){i = i+1;}
+    
